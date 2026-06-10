@@ -92,8 +92,6 @@ Built an interactive Power BI dashboard featuring:
 * Business Analysis
 * Power BI
 * Dashboard Design
-* Data Storytelling
-* GitHub Portfolio Development
 
 ---
 
