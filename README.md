@@ -8,7 +8,7 @@ This project analyzes socioeconomic conditions across Indonesian provinces betwe
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshot/dashboard_overview.png)
 
 ---
 
